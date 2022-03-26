@@ -1,2 +1,2 @@
 # Meu-primeiro-Site
-Utilizando bootstrap
+HTML5/CSS3
